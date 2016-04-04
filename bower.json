@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpressapp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "huytrinhtest <contact@huytrinh.in>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/trinhphandinhhuy/expressapp",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
